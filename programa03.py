@@ -14,7 +14,7 @@ multiplicacao = num1 * num2
 print(f"A multiplicacao de {num1} e {num2} é igual a * = {multiplicacao}")
 
 divisao = num1 / num2
-print(f"A divisao de {num1} e {num2} é igual a / = {divisao:.2f20}")
+print(f"A divisao de {num1} e {num2} é igual a / = {divisao:.2f}")
 
 divisao_inteira = num1 // num2
 print(f"A divisao_inteira de {num1} e {num2} é igual a // = {divisao_inteira}")
